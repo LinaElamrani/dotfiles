@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Linelamrani@gmail.com
+	name = Lina El amrani
